@@ -1,3 +1,9 @@
-a {
-	color:red;
+header {
+	background: gray;
+	text-align: center;
+	padding: 20px;
+}
+
+header img { 
+	width: 160px;
 }
