@@ -9,5 +9,9 @@ header img {
 }
 
 .picture img {
-	width: 320px;
+	width: 160px;
+}
+
+nav ul {
+	list-style-type: none;
 }
